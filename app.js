@@ -22,10 +22,10 @@ container.addEventListener("mouseenter", (e) => {
 
   burger.style.transform = "translateZ(100px)";
   title.style.transform = "translateZ(75px)";
-  description.style.transform = "translateZ(20px)";
-  sides.style.transform = "translateZ(25px)";
-  drinks.style.transform = "translateZ(25px)";
-  purchase.style.transform = "translateZ(40px)";
+  description.style.transform = "translateZ(30px)";
+  sides.style.transform = "translateZ(50px)";
+  drinks.style.transform = "translateZ(50px)";
+  purchase.style.transform = "translateZ(75px)";
 });
 
 // Mouse leave animation
