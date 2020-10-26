@@ -72,16 +72,13 @@ body {
 
 .sides, .drinks {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  justify-content: center;
+  justify-content: space-around;
   margin-top: 1rem;
   transition: all 0.75s ease-out;
 }
 
 .sides button, .drinks button {
-  padding: 0.5rem 1.5rem;
-  margin: .5rem;
+  padding: .75rem 1.2rem;
   background: none;
   border: none;
   box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
